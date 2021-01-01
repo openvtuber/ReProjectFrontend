@@ -2,6 +2,6 @@ module.exports = {
   productionSourceMap: false,
 
   pwa: {
-    name: 'ReProjectFrontend'
+    name: "ReProjectFrontend"
   }
-}
+};
